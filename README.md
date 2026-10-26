@@ -1,5 +1,8 @@
 # Binance Trade Bot Manager Telegram
 
+> **PENGUMUMAN AKUN — 26 OKTOBER 2026:** Website keluarga CSPLUS telah berpindah ke **IDCloudHost cPanel Singapura**. Lihat [standar workflow GitHub dan kebijakan hosting](HOSTING_CPANEL_POLICY.md). **Repositori ini bukan berarti otomatis di-hosting di cPanel**; pertahankan runtime dan prosedur aplikasi sendiri. Pengumuman hanya dokumentasi, bukan deployment.
+
+
 A Telegram bot for remotely managing [Binance Trade Bot].
 
 ## About
